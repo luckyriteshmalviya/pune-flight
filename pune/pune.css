@@ -1,0 +1,62 @@
+
+.Box1{
+    border: 1px solid rgb(24, 23, 23);
+    height: 50px;
+    width: 650px;
+    margin-left: 20px;
+    text-align: center;
+  }
+  
+  .Box2{
+    border: 1px solid rgb(10, 10, 10);
+    height: 100px;
+    width: 650px;
+    margin-left: 20px;
+    text-align: center;
+  }
+  
+  .Box3{
+    border: 1px solid rgb(16, 17, 16);
+    height: 100px;
+    width: 650px;
+    margin-left: 20px;
+    text-align: center;
+  }
+  
+  .Box4{
+    border: 1px solid rgb(15, 15, 15);
+    height: 100px;
+    width: 650px;
+    margin-left: 20px;
+    text-align: center;
+  }
+  
+  
+  .column-3{
+      
+    border: 1px solid rgb(133, 124, 124);
+    position: relative;
+    left: 150px;
+  }
+  
+   .one{
+      outline: 2px rgb(10, 10, 10);
+      margin-left: 200px;
+      margin-top: 60px;
+
+      width: 200px;
+      float: left;
+  }
+  
+  .flight{
+      outline: 2px solid black;
+      margin-top: 60px;
+
+
+      width: 700px;
+      float: left;
+
+  }
+  
+
+  
